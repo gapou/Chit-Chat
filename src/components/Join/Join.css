@@ -6,6 +6,7 @@ html, body {
 
 #root {
   height: 100vh;
+  
 }
 
 * {
@@ -18,7 +19,7 @@ html, body {
   text-align: center;
   height: 100vh;
   align-items: center;
-  background-color: #1A1A1D;
+  background: url(https://i.pinimg.com/originals/d7/f4/50/d7f4501….jpg);
 }
 
 .joinInnerContainer {
@@ -42,9 +43,9 @@ html, body {
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
-    background: #2979FF;
+    background: linear-gradient(160deg, #2979FF 20%, #a0eeea 100%);
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 12px;
     display: inline-block;
     border: none;
     width: 100%;
